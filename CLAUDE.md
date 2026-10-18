@@ -10,4 +10,5 @@
 
 ## Commands
 - node index.js: run the entry script
-- git log --oneline: check commit history
+- git log --oneline: check commit history 
+- git push origin main: push commits to GitHub
